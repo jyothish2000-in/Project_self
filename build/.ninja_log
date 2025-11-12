@@ -1,0 +1,5 @@
+# ninja log v7
+4	1067	7815601984760121	CMakeFiles/MyProject.dir/test.cpp.obj	7a893ac3a61be16e
+1069	1253	7815601995418896	MyProject.exe	200ea5ea6fdfd3f4
+5	496	7816455624405261	CMakeFiles/MyProject.dir/test.cpp.obj	7a893ac3a61be16e
+497	704	7816455629309359	MyProject.exe	200ea5ea6fdfd3f4
