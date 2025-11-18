@@ -6,6 +6,8 @@ class Singleton
     Singleton(){
         std::cout<<"constructor called";
     }
+    Singleton(const Singleton&) = delete;
+    Singleton& operator = (const Singleton&) = delete;
 
     public:
         static Singleton* getInstance();
